@@ -1,0 +1,17 @@
+{
+    "app_id": "com.itqn.erp",
+    "app_name": "ALC Edu",
+    "android": {
+        "latest_version": "1.0.14",
+        "latest_build": 14,
+        "force_update": false,
+        "store_url": "https://play.google.com/store/apps/details?id=com.itqn.erp"
+    },
+    "ios": {
+        "latest_version": "1.0.14",
+        "latest_build": 14,
+        "force_update": false,
+        "store_url": "https://testflight.apple.com/join/TGaNcjKG"
+    },
+    "changelog": "- Tối ưu hóa luồng đồng bộ dữ liệu Offline\n- Sửa lỗi font hiển thị bài học."
+}
