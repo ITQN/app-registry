@@ -2,14 +2,14 @@
     "app_id": "com.itqn.erp",
     "app_name": "ALC Edu",
     "android": {
-        "latest_version": "1.0.162",
-        "latest_build": 162,
+        "latest_version": "1.0.163",
+        "latest_build": 163,
         "force_update": false,
         "store_url": "https://play.google.com/store/apps/details?id=com.itqn.erp"
     },
     "ios": {
-        "latest_version": "1.0.162",
-        "latest_build": 162,
+        "latest_version": "1.0.163",
+        "latest_build": 163,
         "force_update": false,
         "store_url": "https://testflight.apple.com/join/TGaNcjKG"
     },
