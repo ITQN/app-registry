@@ -2,14 +2,14 @@
     "app_id": "com.itqn.alc",
     "app_name": "ALC Edu",
     "android": {
-        "latest_version": "1.0.17",
-        "latest_build": 17,
+        "latest_version": "1.0.19",
+        "latest_build": 19,
         "force_update": false,
         "store_url": "https://play.google.com/store/apps/details?id=com.itqn.alc"
     },
     "ios": {
-        "latest_version": "1.0.17",
-        "latest_build": 17,
+        "latest_version": "1.0.19",
+        "latest_build": 19,
         "force_update": false,
         "store_url": "https://testflight.apple.com/join/guyKmuFv"
     },
