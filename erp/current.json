@@ -8,8 +8,8 @@
         "store_url": "https://play.google.com/store/apps/details?id=com.itqn.erp"
     },
     "ios": {
-        "latest_version": "1.0.165",
-        "latest_build": 165,
+        "latest_version": "1.0.166",
+        "latest_build": 166,
         "force_update": false,
         "store_url": "https://testflight.apple.com/join/TGaNcjKG"
     },
