@@ -11,7 +11,7 @@
         "latest_version": "1.0.25",
         "latest_build": 25,
         "force_update": false,
-        "store_url": "https://testflight.apple.com/join/guyKmuFv"
+        "store_url": "https://apps.apple.com/app/id6762455487"
     },
     "changelog": "- Tối ưu hóa luồng đồng bộ dữ liệu Offline\n- Sửa lỗi font hiển thị bài học."
 }
