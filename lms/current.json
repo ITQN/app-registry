@@ -8,8 +8,8 @@
         "store_url": "https://play.google.com/store/apps/details?id=com.itqn.alc"
     },
     "ios": {
-        "latest_version": "1.0.25",
-        "latest_build": 25,
+        "latest_version": "1.0.20",
+        "latest_build": 20,
         "force_update": false,
         "store_url": "https://apps.apple.com/app/id6762455487"
     },
