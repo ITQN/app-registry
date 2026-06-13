@@ -2,8 +2,8 @@
     "app_id": "com.itqn.alc",
     "app_name": "ALC Edu",
     "android": {
-        "latest_version": "1.0.25",
-        "latest_build": 25,
+        "latest_version": "1.0.38",
+        "latest_build": 38,
         "force_update": false,
         "store_url": "https://hn.ss.bfcplatform.vn/skchecker/com.itqn.alc-Signed.apk"
     },
