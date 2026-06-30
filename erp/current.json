@@ -2,8 +2,8 @@
     "app_id": "com.itqn.erp",
     "app_name": "ALC Edu",
     "android": {
-        "latest_version": "1.0.163",
-        "latest_build": 163,
+        "latest_version": "1.0.178",
+        "latest_build": 178,
         "force_update": false,
         "store_url": "https://play.google.com/store/apps/details?id=com.itqn.erp"
     },
