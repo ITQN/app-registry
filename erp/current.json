@@ -9,7 +9,7 @@
     },
     "ios": {
         "latest_version": "1.0",
-        "latest_build": 179,
+        "latest_build": 180,
         "force_update": false,
         "store_url": "https://testflight.apple.com/join/TGaNcjKG"
     },
