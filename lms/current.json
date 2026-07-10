@@ -8,8 +8,8 @@
         "store_url": "https://hn.ss.bfcplatform.vn/skchecker/com.itqn.alc-Signed.apk"
     },
     "ios": {
-        "latest_version": "1.0.57",
-        "latest_build": 57,
+        "latest_version": "1.0.59",
+        "latest_build": 59,
         "force_update": false,
         "store_url": "https://apps.apple.com/app/id6762455487"
     },
