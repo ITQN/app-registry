@@ -3,13 +3,13 @@
     "app_name": "ALC Edu",
     "android": {
         "latest_version": "1.0.178",
-        "latest_build": 178,
+        "latest_build": 181,
         "force_update": false,
         "store_url": "https://play.google.com/store/apps/details?id=com.itqn.erp"
     },
     "ios": {
         "latest_version": "1.0",
-        "latest_build": 180,
+        "latest_build": 181,
         "force_update": false,
         "store_url": "https://testflight.apple.com/join/TGaNcjKG"
     },
