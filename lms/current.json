@@ -3,7 +3,7 @@
     "app_name": "ALC Edu",
     "android": {
         "latest_version": "1.0.54",
-        "latest_build": 333,
+        "latest_build": 359,
         "force_update": false,
         "store_url": "https://hn.ss.bfcplatform.vn/skchecker/com.itqn.alc-Signed.apk"
     },
