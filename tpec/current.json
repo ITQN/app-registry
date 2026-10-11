@@ -3,7 +3,7 @@
     "app_name": "ALC Edu",
     "android": {
         "latest_version": "1.0",
-        "latest_build": 40,
+        "latest_build": 44,
         "force_update": false,
         "store_url": "https://play.google.com/store/apps/details?id=com.itqn.xndtp"
     },
