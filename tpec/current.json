@@ -1,0 +1,17 @@
+{
+    "app_id": "com.itqn.alc",
+    "app_name": "ALC Edu",
+    "android": {
+        "latest_version": "1.0.54",
+        "latest_build": 359,
+        "force_update": false,
+        "store_url": "https://hn.ss.bfcplatform.vn/skchecker/com.itqn.alc-Signed.apk"
+    },
+    "ios": {
+        "latest_version": "1.0.42",
+        "latest_build": 42,
+        "force_update": false,
+        "store_url": "https://testflight.apple.com/join/6ub7NUBv"
+    },
+    "changelog": "- Tối ưu hóa luồng đồng bộ dữ liệu Offline\n- Sửa lỗi font hiển thị bài học."
+}
